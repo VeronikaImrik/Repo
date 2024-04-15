@@ -1,2 +1,2 @@
 DataScienceEcosystem.ipynb
-Week 6. Create and share Jupyter notebook
+Week 6. Share your notebook through GitHub
